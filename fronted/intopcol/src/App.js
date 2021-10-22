@@ -12,7 +12,7 @@ function App() {
         <Switch>
 
             <Route path='/login'>
-                <h1>estas en el login</h1>
+                <h1>esta en el login</h1>
             </Route>
 
            <Route path='/singup'>
